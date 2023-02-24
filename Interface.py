@@ -19,3 +19,4 @@ while True:
     if eventos == 'Entrar':
         if valores['usuario'] == 'meuNome' and valores['senha'] == '12345':
             print('Login efetuado com sucesso! ')
+
